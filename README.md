@@ -1,1 +1,1 @@
-# habit-alerter
+# habit-alert
